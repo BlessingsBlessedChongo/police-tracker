@@ -1,6 +1,10 @@
 # 🚨 Police Phone Tracker Simulator
 
-![image](https://github.com/user-attachments/assets/d9aa7d18-51d8-4207-9cb1-b93105e73a52)
+
+
+
+https://github.com/user-attachments/assets/f1b1a182-aa53-4ad6-8c9d-538bcc04c4f0
+
 
 
 A simulated police-grade phone tracking system with intimidating UI but basic functionality. For educational purposes only.
@@ -44,7 +48,7 @@ Unauthorized phone tracking may result in:
 ## 📦 Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/police-phone-tracker.git
+   git clone https://github.com/BlessingsBlessedChongo/police-tracker.git
    cd police-phone-tracker
    ```
 
